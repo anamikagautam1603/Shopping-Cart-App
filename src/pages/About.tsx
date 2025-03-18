@@ -34,7 +34,7 @@ export function About() {
                     <hr />
                     
                      <div className="mt-12">
-                                    <Link to="/">
+                                    <Link to="/home">
                                         <button className="px-3 py-1 text-lg font-semibold text-gray-700 dark:text-white bg-gray-200 dark:bg-gray-700 rounded-full shadow-md hover:bg-gray-300 dark:hover:bg-gray-600 transition-all">
                                             ⬅ Back to Home
                                         </button>
